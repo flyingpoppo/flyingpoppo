@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me
 
-<!--
-**flyingpoppo/flyingpoppo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web frontend and backend developer from Japan
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api/top-langs?username=flyingpoppo&show_icons=true&locale=en&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python" /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,fastapi" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,aws,figma" /> <br /><br />
