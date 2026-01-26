@@ -10,7 +10,7 @@ I'm a web frontend and backend developer from Japan
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,fastapi" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,vue,nuxtjs,express,fastapi" /> <br /><br />
 
 ## DB and Dev Tools etc
 
