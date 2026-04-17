@@ -6,11 +6,11 @@ I'm a web frontend and backend developer from Japan
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php" /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,vue,nuxtjs,express,fastapi" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,vue,nuxtjs,express,fastapi,laravel" /> <br /><br />
 
 ## DB and Dev Tools etc
 
